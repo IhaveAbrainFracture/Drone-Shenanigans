@@ -32,3 +32,6 @@ main notes
 - on another note ive gotten some work done regarding admin stuff but now need to work on robotics slides for my school,
 - also im very lost on where i want to go regarding the drone layout
 
+1/06/25
+- im buildin an esp drone (this was said at 7:40)
+- im thinking a custom pcb witha ziao
