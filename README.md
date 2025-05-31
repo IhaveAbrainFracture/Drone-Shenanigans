@@ -4,7 +4,7 @@ UHH hack club highway drone stuff so i can get money and build flying razor blad
 General background information on me, im a highschooler to lives in upside down land and this project is for highway its my first every project and ive already sunken maybe 20ish hours just learning stuff i have no prior experience whatsoever and i've never coded before.
 
 More important specifications and details
-The project is split in 3 parts mostly building the larger drone, building the smaller drone and finding a way to make the smaller drone fly off the big drone. my current plan is to build the first drone see how my mental is cry a bit then move one
+The project is split in 3 parts mostly building the larger drone, building the smaller drone and finding a way to make the smaller drone fly off the big drone. my current plan is to build the first drone see how my mental is cry a bit then move on
 
 Big drone specifications
 - im using 1806 2400KV motors (the 1806 is size of motor details)(KV is the amount of RPM per volt so like 1 volt would give 2400 RPM)
