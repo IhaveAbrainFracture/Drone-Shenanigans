@@ -35,3 +35,7 @@ main notes
 1/06/25
 - im buildin an esp drone (this was said at 7:40)
 - im thinking a custom pcb witha ziao
+
+2/06/25
+-relativly little work i did however learn the basics of pcb making
+
