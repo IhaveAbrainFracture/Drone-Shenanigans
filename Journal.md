@@ -39,3 +39,5 @@ main notes
 2/06/25
 -relativly little work i did however learn the basics of pcb making
 
+4/06/25
+- gonna let this collect dust for a bit because i still need to learn the basics of electronics so the plan is to make a hackpad and watch a few guides on pcb + wiring  ect then complete this
